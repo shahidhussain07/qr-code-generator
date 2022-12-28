@@ -5,3 +5,5 @@
 [x] Tailwind CSS <br>
 [x] JavaScript <br>
 --- qrcode.js library (source: cdnjs.com) 
+
+<a href="https://qrcodes-generator.me" >View Website</a>
