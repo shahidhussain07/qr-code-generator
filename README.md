@@ -1,6 +1,6 @@
 # qr-code-generator
 
-<a href="https://qrcodes-generator.me" >View Website</a> <br>
+<a href="https://qrcode-generates.netlify.app/" >View Website</a> <br>
 
 <h2>Tech Stack</h2>
 [x] HTML <br>
